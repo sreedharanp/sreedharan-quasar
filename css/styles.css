@@ -90,6 +90,7 @@ p {
     border-right: none;
     border-left: none;
     padding: 0
+	color: #FFFFFF;
 }
 #login-form textarea{
     background-color: transparent;
